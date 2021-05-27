@@ -1,4 +1,4 @@
- terraform --version
+ # terraform --version
  ##############################################################################
 # Variables File
 #
